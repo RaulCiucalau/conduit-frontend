@@ -1,0 +1,40 @@
+# ================================
+# Node modules and Angular build output
+# ================================
+node_modules/
+dist/
+.angular/
+.cache/
+
+# ================================
+# Git files
+# ================================
+.git/
+.gitignore
+
+# ================================
+# Environment variables / secrets
+# ================================
+.env
+.env.*
+
+# ================================
+# Logs and coverage reports
+# ================================
+*.log
+coverage/
+
+# ================================
+# IDE and OS files
+# ================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ================================
+# Temporary / backup files
+# ================================
+*.bak
+*.old
+*.tmp
